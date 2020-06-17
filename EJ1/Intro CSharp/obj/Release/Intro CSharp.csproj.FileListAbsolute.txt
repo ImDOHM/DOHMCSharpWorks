@@ -1,0 +1,14 @@
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\bin\Release\Intro CSharp.exe.config
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\bin\Release\Intro CSharp.exe.manifest
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\bin\Release\Intro CSharp.application
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\bin\Release\Intro CSharp.exe
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\bin\Release\Intro CSharp.pdb
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro CSharp.csprojAssemblyReference.cache
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro_CSharp.Form1.resources
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro_CSharp.Properties.Resources.resources
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro CSharp.csproj.GenerateResource.cache
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro CSharp.csproj.CoreCompileInputs.cache
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro CSharp.exe.manifest
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro CSharp.application
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro CSharp.exe
+C:\Users\DOHM\Documents\Programación C#\EJ1\Intro CSharp\obj\Release\Intro CSharp.pdb

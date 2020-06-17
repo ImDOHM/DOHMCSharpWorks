@@ -1,0 +1,10 @@
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\DOHM\Documents\Programación C#\EJ2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
