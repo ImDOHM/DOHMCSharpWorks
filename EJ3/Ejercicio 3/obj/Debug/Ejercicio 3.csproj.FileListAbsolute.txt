@@ -1,0 +1,10 @@
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\obj\Debug\Ejercicio 3.csprojAssemblyReference.cache
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\obj\Debug\Ejercicio_3.Form1.resources
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\DOHM\Documents\Programación C#\EJ3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
